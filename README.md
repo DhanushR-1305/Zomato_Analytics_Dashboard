@@ -13,20 +13,6 @@ Analyzed data from Zomato to uncover insights on restaurant ratings, pricing, cu
 
 • Generate data-driven insights to support business and marketing decisions.
 
-# Key Insights
-
-• Analyze restaurant distribution across 141 cities to understand market coverage.
-
-• Evaluate ratings distribution to identify quality trends and customer satisfaction levels.
-
-• Study pricing categories to compare affordability across restaurants.
-
-• Identify top cuisines and most popular food categories among customers.
-
-• Track yearly restaurant openings to monitor platform growth trends.
-
-• Identify top-performing cities based on restaurant concentration.
-
 # Dashboard Overview
 
 # Excel Dashboard
